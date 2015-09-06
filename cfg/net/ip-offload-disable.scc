@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Disable IP offload support"
+define KFEATURE_COMPATIBILITY all
+
+kconf non-hardware ip-offload-disable.cfg
