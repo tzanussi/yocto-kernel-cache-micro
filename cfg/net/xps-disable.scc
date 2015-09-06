@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Disable multiple transmit queues"
+define KFEATURE_COMPATIBILITY all
+
+kconf non-hardware xps-disable.cfg
