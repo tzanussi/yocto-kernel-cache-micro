@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Enable periodic HZ support"
+define KFEATURE_COMPATIBILITY arch
+
+kconf non-hardware hz-periodic.cfg
