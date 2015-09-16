@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Disable cpu idle support"
+define KFEATURE_COMPATIBILITY arch
+
+kconf non-hardware cpu-idle-disable.cfg
