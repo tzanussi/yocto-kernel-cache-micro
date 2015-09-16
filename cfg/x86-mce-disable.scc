@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Disable x86 MCE support"
+define KFEATURE_COMPATIBILITY arch
+
+kconf non-hardware x86-mce-disable.cfg
